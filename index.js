@@ -1,3 +1,3 @@
 function binaryToDecimal(number){
-   return parseInt()
+   return parseInt(number, 10)
 }
