@@ -1,4 +1,6 @@
 function binaryToDecimal(number){
    return parseInt(number, 10);
 }
-function add(a,b)
+function add(a,b){
+  return a+b
+}
