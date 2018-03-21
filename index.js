@@ -4,4 +4,6 @@ function binaryToDecimal(number){
 function add(a,b){
   return a+b;
 }
-function subtract(a,b)
+function subtract(a,b){
+  
+}
