@@ -1,3 +1,3 @@
-function binaryToDecimal(){
-  var number
+function binaryToDecimal(number){
+   
 }
