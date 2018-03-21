@@ -26,4 +26,4 @@ function preserveDecimal(n){
   parseFloat(n);
 }
 makeInt('adjasdds');
-makeInt('0X')
+makeInt('0x2328');
